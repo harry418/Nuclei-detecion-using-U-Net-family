@@ -1,4 +1,4 @@
-# unet-or-unet-segmentation
+# UNet- family : Medical Image Segmentation
 This is an implementation of " UNet ,wide-UNet and UNet++ for Medical Image Segmentation " in Python and powered by the Keras deep learning framework (Tensorflow as backend). 
 
 **Table Of Contents**
