@@ -1,2 +1,2 @@
-## Dataset - https://www.kaggle.com/c/data-science-bowl-2018
-## upload stage1_train files here
+## kaggle notebook - https://www.kaggle.com/harry418/unet-segmentation-keras
+## make sure your accelerator is gpu.
