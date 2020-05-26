@@ -55,7 +55,7 @@ upload stage1_train files here
 
 kaggle notebook
 =============
- https://www.kaggle.com/harry418/unet-or-unet-segmentation-keras
+ https://www.kaggle.com/harry418/unet-family-with-keras
  
  before running file make sure to use acceerator as gpu
  
@@ -67,4 +67,6 @@ kaggle notebook
  
  accuracy of unet++ = 95.99%
  
+ ![alt text](https://github.com/harry418/unet-or-unet-segmentation/blob/master/images/result.png)
+
  
